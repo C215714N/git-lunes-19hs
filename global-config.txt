@@ -1,0 +1,16 @@
+user.name=C215714N
+user.email=CristianDRacedo@hotmail.com
+difftool.sourcetree.cmd='' "$LOCAL" "$REMOTE"
+mergetool.sourcetree.cmd='' 
+mergetool.sourcetree.trustexitcode=true
+alias.lod=log --oneline --decorate
+alias.lodag=log --oneline --decorate --all --graph
+alias.list=config --global --get-regexp
+alias.cm=commit -m
+alias.set=config --global
+alias.cb=checkout -b
+alias.rc=rebase --continue
+alias.last=log -1
+alias.c=checkout
+alias.upload=push --set-upstream
+alias.unload=push --unset-upstream
