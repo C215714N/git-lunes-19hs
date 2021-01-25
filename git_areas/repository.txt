@@ -1,0 +1,27 @@
+REPOSITORY	(REPOSITORIO)
+	Lugar donde se almacenan las capturas
+	en formato BLOB(Binary Object File)
+	cuando validamos los cambios del INDEX
+	y al cual se recurre cuando debemos
+	verificar el estado de nuestro proyecto
+	en algun punto del historial de commits.
+
+	NOTA: Debemos evitar editar el historial
+	manualmente debido a que esto podria
+	generar algun problema en la referencias
+	hacia commits anteriores.
+GIT
+    LOCAL
+	git commit	=> abre el editor(VIM) para generar el commit 
+	git commit -m ""=> genera un commit con mensaje (no abre el editor)
+	git commit -a	=> genera un commit agregando los cambios al index 
+			   (solamente archivos con seguimiento)
+
+	git commit --amend => edita el ultimo commit
+
+    REMOTES
+	git remote => lista los repositorios remotos
+	git remote -v => lista los repositorios con las direcciones URL
+	git remote add <alias> <url> => agrega un repositorio remoto
+	git remote remove <alias> => elimina el repositorio con dicho alias
+	git remote rename <old> <new> => renombra un repositorio remoto
