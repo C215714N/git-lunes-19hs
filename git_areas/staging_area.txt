@@ -1,0 +1,31 @@
+STAGING AREA - INDEX (AREA DE CONTROL DE CAMBIOS)
+	Es el area donde se realiza los SNAPSHOTS
+	(capturas de codigo) y tambien donde se
+	realiza el seguimiento de los archivos.
+	Esto solamente aplica a aquellos que hayan
+	sido agregados con anterioridad y se
+	encuentren en el respositorio tras emitirse
+	al menos un commit.
+	
+	NOTA: Los archivos que no hayan sido agregados
+	al INDEX son totalmente ignorados por GIT,
+	es decir, que en caso de eliminarlos no se
+	podran recuperar mediante los comandos.
+	
+GIT
+	git add <file>	 => agrega el archivo al INDEX
+	git add <folder> => agrega el contenido de la carpeta al INDEX
+	git add .	 => agrega todos los archivos modificados al INDEX
+	
+	git restore --staged <file> => limpia el archivo del INDEX
+	git restore <file> => elimina el SNAPSHOT actual del INDEX
+	git rm <file> => elimina del INDEX el archivo (sin seguimiento)
+
+	git diff <*REF>=> compara WORKING DIRECTORY con LOCAL REPOSITORY
+	
+	*REF
+		commit		C017117 (absoluta - especifico)
+		ancestor	HEAD^	(relativa - commit padre/anterior)
+		previous	HEAD~2	(relativa - anterior/pasos atras)
+	
+
