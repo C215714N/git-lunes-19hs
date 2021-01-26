@@ -1,0 +1,26 @@
+LOCAL REPOSITORY (REPOSITORIO LOCAL)
+	Almacen de datos que se encuentra en
+	la carpeta oculta ".git/" organizada
+	mediante numeros hexadecimales que van
+	desde el 00 al FF, representando 256
+	carpetas en total donde se guardan los
+	archivos BLOB al generar los commits.
+
+	NOTA: Si unicamente trabajamos con un 
+	repositorio local, debemos tener en
+	cuenta que si se elimina la carpeta,
+	tambien estamos eliminando el contenido
+	de ".git/" haciendo irrecuperable el
+	repositorio, debido a falta de copias.
+
+GIT 
+	git commit => emite un commit que valida los cambios realizados
+	git checkout <*REF> => permite desplazarnos entre los commits
+	git checkout <branch> => mueve la cabecera al ULTIMO COMMIT 
+				 de dicha Rama (Apuntador Dinamico)
+	*REF
+		commit C017117	=> mueve el HEAD al commit indicado
+		ancestor HEAD^	=> retrocede el HEAD un numero igual a 
+					la cantidad de ancestros indicados
+		previous HEAD~2 => retrocede el HEAD un numero identico
+					a la cantidad de commits marcados
