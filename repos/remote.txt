@@ -1,0 +1,29 @@
+REMOTE	REPOSITORY (REPOSITORIO REMOTO)
+	Direccion URL de un sitio web donde se 
+	almacenan las diferentes ramas de un proyecto. 
+	Podemos cargar en un repositorio local 
+	multiples remotos, de los cuales podemos obtener
+	y mandar cambios con respecto a los commits emitidos.
+
+	NOTA: Debemos tener acceso validado (usuario/contraseña)
+	para poder subir nuestros cambios a dichos repositorios.
+	Igualmente, si no tenemos acceso, podemos jalar los 
+	cambios del repositorio a nuestro proyecto.
+
+URL REMOTOS	
+	https://github.com
+	https://gitlab.com
+	https://bitbucket.org
+
+GIT
+	git clone <url> => clona un repositorio en una carpeta homonima
+	git clone <url> <name> => clona el repositorio en una carpeta nueva
+				  con el nombre indicado (no debe existir)
+	git clone --brach <branch> <url> => clona la rama especificada	
+
+	git push --set-upstream <remote> <branch> => agrega la rama al remoto
+	git push <remote>  => actualiza en el remoto la rama actual
+	git fetch <remote> => trae el historial de cambios del remoto
+				(no modifica el WORKING DIRECTORY)
+	git pull <remote>  => trae e integra los cambios del remoto 
+				a nuestro repositorio local (MERGE)
