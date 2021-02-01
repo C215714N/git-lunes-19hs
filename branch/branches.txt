@@ -23,8 +23,10 @@ GIT
 	git checkout -b	  => crea un nos redirecciona a la rama nueva
 
     DELETE
-	git branch -d => elimina una rama, solo si los cambios existen en otra parte
-	git branch -D => elimina una rama, sin importa si se integraron los cambios o no
+	git branch -d <branch> => elimina la rama, solamente si los cambios 
+				  estan integrados a otra rama (opcion segura)
+	git branch -D <branch> => elimina la rama, incluso si los cambios NO
+				  fueron integrados a ninguna rama. (forzada)
 
     MERGE	
 	git merge <branch> => integra en la rama actual, los cambios de la rama seleccionada
