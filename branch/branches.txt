@@ -1,0 +1,36 @@
+BRANCH	(RAMAS) 
+	Las ramas son apuntadores dinamicos que seleccionan 
+	al ultimo commit emitido dentro de las mismas. 
+	Estas nos permiten navegar en el historial de cambios 
+	de una manera mas flexible, ya que podemos ir y volver 
+	sin preocuparnos del numero de ancestros o cantidad de 
+	commits	que queremos retroceder o avanzar.
+	
+	NOTA: El historial de una rama no tiene que ser 
+	el mismo que otras, ya que al momento que realizarse
+	la bifurcacion, esta poseera un historial diferencia
+	o al menos un tanto aproximado a otra rama. En general 
+	todas las ramas comparten algun commit en comun debido 
+	a que al ser aciclicas apuntan a sus ancestros.
+
+GIT
+	git branch => lista las ramas creadas
+	git branch -r => lista las ramas remotas
+	git branch -a => lista todas las ramas locales/remotas
+
+    CREATE
+	git branch <name> => crea la rama con el nombre indicado
+	git checkout -b	  => crea un nos redirecciona a la rama nueva
+
+    DELETE
+	git branch -d <branch> => elimina la rama, solamente si los cambios 
+				  estan integrados a otra rama (opcion segura)
+	git branch -D <branch> => elimina la rama, incluso si los cambios NO
+				  fueron integrados a ninguna rama. (forzada)
+
+    MERGE	
+	git merge <branch> => integra en la rama actual, los cambios de la rama seleccionada
+	git merge <commit> => integra en la rama actual, los cambios del commit apuntado
+
+	git merge --abort => cancela la fusion, ante un conflicto sin resolver
+	git merge --continue => continua con la fusion, tras resolver un conflicto
