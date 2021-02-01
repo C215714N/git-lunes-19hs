@@ -15,6 +15,9 @@ LOCAL REPOSITORY (REPOSITORIO LOCAL)
 
 GIT 
 	git commit => emite un commit que valida los cambios realizados
+	git commit -a => agrega los cambios de los archivos con seguimiento
+	git commit -m => emite un commit con mensaje (NO abre el editor)
+
 	git checkout <*REF> => permite desplazarnos entre los commits
 	git checkout <branch> => mueve la cabecera al ULTIMO COMMIT 
 				 de dicha Rama (Apuntador Dinamico)
