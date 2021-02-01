@@ -1,0 +1,22 @@
+BRANCH	(RAMAS)
+	Apuntador dinamico al que se le asigna un nombre,
+	que siempre se coloca sobre el ultimo commit
+	emitido en dicha rama. En general todas las ramas
+	comparten algun commit en comun debido a que al
+	ser aciclicas apuntan a sus ancestros.
+
+GIT
+	git branch	=> lista las ramas
+	git branch -r	=> lista las ramas remotas
+	git branch -a	=> lista todas las ramas (remotas y locales)
+	git branch <name> => crea una rama con el nombre especificado
+	git checkout -b => crea una rama y nos redirecciona a la misma
+
+	git branch -d => elimina una rama, solo si los cambios existen en otra parte
+	git branch -D => elimina una rama, sin importa si se integraron los cambios o no
+	
+	git merge <branch> => integra en la rama actual, los cambios de la rama seleccionada
+	git merge <commit> => integra en la rama actual, los cambios del commit apuntado
+
+	git merge --abort => cancela la fusion, ante un conflicto sin resolver
+	git merge --continue => continua con la fusion, tras resolver un conflicto
