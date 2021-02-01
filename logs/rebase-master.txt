@@ -1,0 +1,19 @@
+* 606c6b8 (HEAD -> master) se edito contenido - branch (delete)
+* 90dcd70 se agrego contenido - branch
+* 136ef71 se agrego contenido - branches (comandos)
+*   552100a (IT/master) Branch Merge (repo => master)
+|\
+* | 0f6b4cf se agrego contenido - repository
+* | e665f2a se agrego contenido - staging area (index)
+* | 004838b se agrego contenido - working directory
+| | * b60490a (repo) se edito contenido - local (commit options)
+| |/
+| * 6f5b9ce (IT/repo) se agrego contenido - local
+| * ab630ee se agrego contenido - remote
+| | * 39c0bbe (branches) se edito contenido - branch (delete)
+| | * c39b817 (IT/branches) se agrego contenido - branch
+| |/
+|/|
+* | e2051bd Configuraciones | global & system
+|/
+* 2b9c72a Primer Commit - se agrego local-config
