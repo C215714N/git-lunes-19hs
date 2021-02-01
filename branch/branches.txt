@@ -8,7 +8,7 @@ BRANCH	(RAMAS)
 	
 	NOTA: El historial de una rama no tiene que ser 
 	el mismo que otras, ya que al momento que realizarse
-	la bifurcacion, esta poseera un historial diferencia
+	la bifurcacion, esta poseera un historial diferente
 	o al menos un tanto aproximado a otra rama. En general 
 	todas las ramas comparten algun commit en comun debido 
 	a que al ser aciclicas apuntan a sus ancestros.
