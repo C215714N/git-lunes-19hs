@@ -17,6 +17,9 @@ GIT
 	git commit => emite un commit que valida los cambios realizados
 	git commit -a => agrega los cambios de los archivos con seguimiento
 	git commit -m => emite un commit con mensaje (NO abre el editor)
+	
+	git commit --amend => genera un nuevo commit reemplazando el anterior
+
 	git checkout <*REF> => permite desplazarnos entre los commits
 	git checkout <branch> => mueve la cabecera al ULTIMO COMMIT 
 				 de dicha Rama (Apuntador Dinamico)
@@ -26,4 +29,3 @@ GIT
 					la cantidad de ancestros indicados
 		previous HEAD~2 => retrocede el HEAD un numero identico
 					a la cantidad de commits marcados
-	
