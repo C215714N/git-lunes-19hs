@@ -1,0 +1,24 @@
+*   377f9bb (HEAD -> master) se actualizo contenido - pull remote => master
+|\
+| * 2262b19 (IT/master) se agrego contenido - log (rebase)
+| * 606c6b8 se edito contenido - branch (delete)
+| * 90dcd70 se agrego contenido - branch
+| * 136ef71 se agrego contenido - branches (comandos)
+| *   552100a Branch Merge (repo => master)
+| |\
+| | * 6f5b9ce se agrego contenido - local
+| | * ab630ee se agrego contenido - remote
+| * | 0f6b4cf se agrego contenido - repository
+| * | e665f2a se agrego contenido - staging area (index)
+| * | 004838b se agrego contenido - working directory
+| * | e2051bd Configuraciones | global & system
+| |/
+* | 7913cc5 se edito contenido - repository (local)
+* | 262681a se agrego contenido - logs (merge & rebase)
+* | 865ebdd se agrego contenido - branch
+* | 36c740e se agrego contenido - repository
+* | c3bddb6 se agrego contenido - staging area (index)
+* | 1e9bf82 se agrego contenido - working directory
+* | e15b933 se agrego contenido - config global & system
+|/
+* 2b9c72a Primer Commit - se agrego local-config
