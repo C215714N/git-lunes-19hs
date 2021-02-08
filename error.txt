@@ -1,4 +1,5 @@
 archivo realizado para probar la deteccion de errores
 
 primer linea de codigo: "hello word!"
-linea 2: variables | constantes
+linea 2: variables | constantes 
+linea 3: var
