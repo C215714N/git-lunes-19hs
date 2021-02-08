@@ -12,3 +12,10 @@ STASH (ALMACENAMIENTO TEMPORAL)
 	almacenados en el STAGING AREA para
 	poder acceder a los comandos STASH.
 
+GIT 
+	git stash => crea la referencia en la zona stash (COMMIT | INDEX)
+	git stash apply <stash> => aplica los cambios de la zona stash (sin eliminarlos)
+	git stash drop <stash> => elimina la referencia de la zona stash
+	git stash pop <stash> => aplica los cambios y elimina la referencia (APPLY & DROP)
+
+	git stash list => muestra las referencias almacenadas en la zona stash
