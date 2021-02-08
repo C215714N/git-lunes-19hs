@@ -1,1 +1,3 @@
 archivo realizado para probar la deteccion de errores
+
+primer linea de codigo: "hello word!"
