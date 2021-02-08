@@ -15,3 +15,6 @@ GIT
 	git tag <name> => asigna al commit actual una etiqueta
 	git tag -l => lista las etiquetas asignadas
 	git tag -d <tag> => alimina la etiqueta especificada
+
+REMOTE
+	git push <url> --tags => envia al remoto las etiquetas almacenadas
