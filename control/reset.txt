@@ -1,0 +1,12 @@
+RESET	(REINICIAR)
+	Comando que nos permite la eliminacion de commits
+	del historial de cambios, segun los parametros que
+	indiquemos tambien nos permitira mantener o quitar
+	los cambios agregados al INDEX y el WORKING DIRECTORY
+
+	NOTA: Solamente debemos aplicar este comando cuando
+	los cambios no han subidos a nuestro repositorio
+	remoto, debido a que estamos eliminando elementos del
+	historial y por ende esto haria diferir a nuestro 
+	repositorio del remoto.
+
