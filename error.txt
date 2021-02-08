@@ -2,5 +2,5 @@ archivo realizado para probar la deteccion de errores
 
 primer linea de codigo: "hello word!"
 linea 2: variables | constantes 
-linea 3: var, dim, let, const
+linea 3: var, let, const
 linea 4: funciones y metodos
