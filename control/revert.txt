@@ -1,0 +1,10 @@
+REVERT	(REVERTIR)
+	Comando que permite reestablecer los cambios
+	aplicados en un commit especifico, realizado
+	uno con las operaciones opuestas. Es decir,
+	que si agregamos una linea de codigo, REVERT
+	la eliminara/reestablecera y viceversa.
+
+	NOTA: Este comando es bastante practico, debido
+	a que el commit revertido no debe ser correlativo
+	al HEAD y no afecta al historial de cambios.
