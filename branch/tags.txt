@@ -10,3 +10,8 @@ TAGS	(Etiquetas)
 	a la hora de aplicarlos, como por ejemplo
 	"v.1.0" y cuando hagamos un cambios significativo
 	seguir con dicha nomenclatura como "v.1.1"
+
+GIT 
+	git tag <name> => asigna al commit actual una etiqueta
+	git tag -l => lista las etiquetas asignadas
+	git tag -d <tag> => alimina la etiqueta especificada
