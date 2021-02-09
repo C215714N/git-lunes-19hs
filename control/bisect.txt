@@ -1,0 +1,24 @@
+BISECT	(BISECCIONAR || DISECCION BINARIA)
+	Comando que permite la navegacion entre commits
+	para la deteccion de errores median una busqueda
+	binaria. Debemos indicar cual es el commit donde
+	se detecto el problema (MALO) y cual es el commit
+	donde nuestro codigo funcionaba (BUENO).
+	
+	NOTA: No es necesario recorrer todo el historial
+	ya que simplemente basta con indicar el primer 
+	commit y el ultimo que queremos investigar, para
+	luego indicar la situacion del mismo.
+
+GIT
+	git bisect start => empieza el analisis con bisect (iniciar)
+	git bisect bad => indica al commit como corrupto/no util
+	git bisect good => indica al commit como util/funcional	
+	git bisect reset => reinicia el estado de bisect (finalizar)
+
+ACLARACION
+	bisect analiza los commit tras haber indicado el commit BAD,
+	asi como tambien el commit GOOD luego de un checkout. 
+	Una vez hecho esto, la herramienta seleccionara los commits
+	de manera automatica (128 => 64 => 32 => 16 => 8 => 4 => 2 => 1)
+	hasta llegar al commit problematico, gracias a nuestras indicaciones
