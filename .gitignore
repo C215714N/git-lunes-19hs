@@ -1,0 +1,9 @@
+## carpetas
+node_modules/
+temp/
+tmp/
+
+## archivos
+*.temp
+*.tmp
+template.txt
