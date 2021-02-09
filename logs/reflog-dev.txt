@@ -1,0 +1,210 @@
+1cb531c refs/heads/development@{0}: commit: se agrego contenido - logs(reset --hard)
+1cb531c HEAD@{0}: commit: se agrego contenido - logs(reset --hard)
+71bf5e7 refs/heads/development@{1}: commit: se agrego contenido - reset
+71bf5e7 HEAD@{1}: commit: se agrego contenido - reset
+dd1e8ff refs/heads/development@{2}: commit: se agrego contenido - revert
+dd1e8ff HEAD@{2}: commit: se agrego contenido - revert
+2870113 refs/heads/development@{3}: commit: se agrego contenido - bisect
+2870113 HEAD@{3}: commit: se agrego contenido - bisect
+533a11a refs/heads/development@{4}: reset: moving to 533a11a
+533a11a HEAD@{4}: reset: moving to 533a11a
+6e9dfe6 refs/heads/development@{5}: reset: moving to 6e9dfe6
+6e9dfe6 HEAD@{5}: reset: moving to 6e9dfe6
+c1dc4d1 refs/heads/development@{6}: reset: moving to HEAD~3
+c1dc4d1 HEAD@{6}: reset: moving to HEAD~3
+883431d refs/heads/development@{7}: commit: se agrego contenido - bisect
+883431d HEAD@{7}: commit: se agrego contenido - bisect
+d02b45f refs/heads/development@{8}: commit: se agrego contenido - revert
+d02b45f HEAD@{8}: commit: se agrego contenido - revert
+995a041 refs/heads/development@{9}: commit: se agrego contenido - reset
+995a041 HEAD@{9}: commit: se agrego contenido - reset
+c1dc4d1 refs/heads/development@{10}: revert: Revert Revert Revert "declaracion dim"
+c1dc4d1 HEAD@{10}: revert: Revert Revert Revert "declaracion dim"
+e3c7220 refs/heads/development@{11}: revert: Revert "Revert "declaracion dim""
+e3c7220 HEAD@{11}: revert: Revert "Revert "declaracion dim""
+6e9dfe6 refs/heads/development@{12}: commit: Revert "declaracion dim"
+6e9dfe6 HEAD@{12}: commit: Revert "declaracion dim"
+9a0803c HEAD@{13}: checkout: moving from d3aa3f399023afdabff633e0b998d8acb85fb653 to development
+d3aa3f3 HEAD@{14}: checkout: moving from e1494df54c3d91269e67e93978520f194d12448c to d3aa3f399023afdabff633e0b998d8acb85fb653
+e1494df HEAD@{15}: checkout: moving from 52f8548a9231c12dd04101bc213fc41690303480 to e1494df54c3d91269e67e93978520f194d12448c
+52f8548 HEAD@{16}: checkout: moving from 533a11a9e731b8cdc46652ff17022d60723f8ad7 to 52f8548a9231c12dd04101bc213fc41690303480
+533a11a HEAD@{17}: checkout: moving from 2b9c72a324b8db495ec81c22d8723c34db64017d to 533a11a9e731b8cdc46652ff17022d60723f8ad7
+2b9c72a HEAD@{18}: checkout: moving from development to 2b9c72a
+9a0803c refs/heads/development@{13}: commit: linea 4 - funciones y metodos
+9a0803c HEAD@{19}: commit: linea 4 - funciones y metodos
+14e97a7 refs/heads/development@{14}: commit: declaracion const
+14e97a7 HEAD@{20}: commit: declaracion const
+b2d730e refs/heads/development@{15}: commit: declaraion let
+b2d730e HEAD@{21}: commit: declaraion let
+e1494df refs/heads/development@{16}: commit: declaracion dim
+e1494df HEAD@{22}: commit: declaracion dim
+d3aa3f3 refs/heads/development@{17}: commit: declaracion var
+d3aa3f3 HEAD@{23}: commit: declaracion var
+52f8548 refs/heads/development@{18}: commit: modificacion variable - constantes
+52f8548 HEAD@{24}: commit: modificacion variable - constantes
+57fd8cb refs/heads/development@{19}: commit: linea 2 - variables
+57fd8cb HEAD@{25}: commit: linea 2 - variables
+ccbe937 refs/heads/development@{20}: commit: linea 1 - hello world
+ccbe937 HEAD@{26}: commit: linea 1 - hello world
+7218d1a refs/heads/development@{21}: commit: titulo testing
+7218d1a HEAD@{27}: commit: titulo testing
+533a11a refs/heads/development@{22}: commit: se edito contenido - stash (comandos)
+533a11a HEAD@{28}: commit: se edito contenido - stash (comandos)
+f289bf2 refs/heads/development@{23}: commit: se agrego contenido - stash
+f289bf2 HEAD@{29}: commit: se agrego contenido - stash
+d5c3b5d HEAD@{30}: reset: moving to HEAD
+d5c3b5d HEAD@{31}: reset: moving to HEAD
+d5c3b5d refs/heads/development@{24}: commit: se edito contenido - tag (remote)
+d5c3b5d HEAD@{32}: commit: se edito contenido - tag (remote)
+dd84ce2 HEAD@{33}: reset: moving to HEAD
+dd84ce2 HEAD@{34}: reset: moving to HEAD
+dd84ce2 HEAD@{35}: checkout: moving from 5dea45b795d1b490f423a9e764ce9d3771be9e78 to development
+5dea45b HEAD@{36}: checkout: moving from 2b9c72a324b8db495ec81c22d8723c34db64017d to v.1.1.0
+2b9c72a HEAD@{37}: checkout: moving from 5dea45b795d1b490f423a9e764ce9d3771be9e78 to v.1.0.0
+5dea45b HEAD@{38}: checkout: moving from 2b9c72a324b8db495ec81c22d8723c34db64017d to 5dea45b
+2b9c72a HEAD@{39}: checkout: moving from development to 2b9c72a
+dd84ce2 refs/heads/development@{25}: commit: se edito contenido - tags (comandos)
+dd84ce2 HEAD@{40}: commit: se edito contenido - tags (comandos)
+c6116b8 refs/heads/development@{26}: commit: se agrego contenido - tags
+c6116b8 HEAD@{41}: commit: se agrego contenido - tags
+d06fe7b HEAD@{42}: checkout: moving from master to development
+777fdbf refs/remotes/IT/master@{0}: update by push
+777fdbf refs/heads/master@{0}: commit (amend): Integracion de cambios origin => master
+777fdbf HEAD@{43}: commit (amend): Integracion de cambios origin => master
+d06fe7b refs/remotes/IT/development@{0}: update by push
+1a4e2b7 refs/heads/master@{1}: pull IT: Fast-forward
+1a4e2b7 refs/remotes/IT/master@{1}: pull IT: fast-forward
+1a4e2b7 HEAD@{44}: pull IT: Fast-forward
+5501d73 refs/remotes/IT/master@{2}: update by push
+5501d73 refs/heads/master@{2}: commit (amend): se agrego contenido - log
+5501d73 HEAD@{45}: commit (amend): se agrego contenido - log
+8d804a9 refs/heads/master@{3}: rebase (continue) (finish): refs/heads/master onto 2b9c72a324b8db495ec81c22d8723c34db64017d
+8d804a9 HEAD@{46}: rebase (continue) (finish): returning to refs/heads/master
+8d804a9 HEAD@{47}: rebase (continue) (squash): parent 865ebdd2c246ed7964fc2dca6735d4f4de63c058
+b7b3028 HEAD@{48}: rebase (continue) (squash): # This is a combination of 12 commits.
+37c97f2 HEAD@{49}: rebase (continue) (squash): # This is a combination of 11 commits.tree 480b34d6a6eda2c686e20792384d88ca4dd98ed0
+bbb88fe HEAD@{50}: rebase (continue) (squash): # This is a combination of 7 commits.
+3dcaab9 HEAD@{51}: rebase (continue) (squash): # This is a combination of 6 commits.
+0029a31 HEAD@{52}: rebase (continue) (squash): # This is a combination of 5 commits.
+71ae5b5 HEAD@{53}: rebase (continue) (squash): # This is a combination of 4 commits.
+731a33c HEAD@{54}: rebase (continue) (squash): # This is a combination of 3 commits.tree 480b34d6a6eda2c686e20792384d88ca4dd98ed0
+638ff56 HEAD@{55}: rebase (squash): # This is a combination of 2 commits.
+262681a HEAD@{56}: rebase (start): checkout 2b9c72
+d47ae65 HEAD@{57}: checkout: moving from development to master
+d06fe7b refs/heads/development@{27}: cherry-pick: se agrego contenido - logs (merge & rebase)
+d06fe7b HEAD@{58}: cherry-pick: se agrego contenido - logs (merge & rebase)
+5dea45b refs/heads/development@{28}: cherry-pick: se agrego contenido - log (pull remote)
+5dea45b HEAD@{59}: cherry-pick: se agrego contenido - log (pull remote)
+3d7fcc1 refs/heads/development@{29}: cherry-pick: se agrego contenido - branch
+3d7fcc1 HEAD@{60}: cherry-pick: se agrego contenido - branch
+f78b824 refs/heads/development@{30}: cherry-pick: se agrego contenido - repository
+f78b824 HEAD@{61}: cherry-pick: se agrego contenido - repository
+2b9c72a refs/heads/development@{31}: branch: Created from HEAD
+2b9c72a HEAD@{62}: checkout: moving from 2b9c72a324b8db495ec81c22d8723c34db64017d to development
+2b9c72a HEAD@{63}: checkout: moving from master to 2b9c72a
+d47ae65 refs/remotes/IT/master@{3}: update by push
+d47ae65 refs/heads/master@{4}: commit: se agrego contenido - log (pull remote)
+d47ae65 HEAD@{64}: commit: se agrego contenido - log (pull remote)
+1d9c211 refs/heads/master@{5}: pull IT: Fast-forward
+1d9c211 HEAD@{65}: pull IT: Fast-forward
+1d9c211 refs/remotes/IT/master@{4}: pull IT: fast-forward
+377f9bb refs/remotes/IT/master@{5}: update by push
+377f9bb refs/heads/master@{6}: commit (merge): se actualizo contenido - pull remote => master
+377f9bb HEAD@{66}: commit (merge): se actualizo contenido - pull remote => master
+7913cc5 refs/heads/master@{7}: rebase (finish): refs/heads/master onto 2b9c72a324b8db495ec81c22d8723c34db64017d
+7913cc5 HEAD@{67}: rebase (finish): returning to refs/heads/master
+7913cc5 HEAD@{68}: rebase (squash): se edito contenido - repository (local)
+56eafb7 HEAD@{69}: rebase (squash): # This is a combination of 2 commits.
+044459b HEAD@{70}: rebase (reword): se edito contenido - repository (local)
+c20097a HEAD@{71}: rebase (reword): se edito contenido - local (commit options)
+262681a HEAD@{72}: rebase (reword): se agrego contenido - logs (merge & rebase)
+6f1c8ec HEAD@{73}: rebase (reword): se agrego contenido - log (rebase)
+865ebdd HEAD@{74}: rebase (squash): se agrego contenido - branch
+ff18c06 HEAD@{75}: rebase (squash): # This is a combination of 2 commits.
+9d6d858 HEAD@{76}: rebase (reword): se agrego contenido - branch
+1a6e2e3 HEAD@{77}: rebase (reword): se agrego contenido - branches (comandos)
+36c740e HEAD@{78}: rebase (squash): se agrego contenido - repository
+2cfa59b HEAD@{79}: rebase (squash): # This is a combination of 2 commits.
+1e2f90d HEAD@{80}: rebase (pick): se agrego contenido - repository
+c3bddb6 HEAD@{81}: rebase (pick): se agrego contenido - staging area (index)
+1e9bf82 HEAD@{82}: rebase (pick): se agrego contenido - working directory
+e15b933 HEAD@{83}: rebase (reword): se agrego contenido - config global & system
+e2051bd HEAD@{84}: rebase: fast-forward
+2b9c72a HEAD@{85}: rebase (start): checkout 2b9c72a
+1ed40da refs/heads/master@{8}: rebase (finish): refs/heads/master onto 136c72e9f6ad46cfb6e230b871dff5a577f77785
+1ed40da HEAD@{86}: rebase (finish): returning to refs/heads/master
+1ed40da HEAD@{87}: rebase (pick): se agrego contenido - log (rebase-branches)
+136c72e HEAD@{88}: rebase (start): checkout branches
+cdadcb3 refs/heads/master@{9}: rebase (finish): refs/heads/master onto 26184d7fcf37c53d9f822457e76bd350dd42b8cc
+cdadcb3 HEAD@{89}: rebase (finish): returning to refs/heads/master
+cdadcb3 HEAD@{90}: rebase (pick): se agrego contenido - log (rebase-branches)
+26184d7 HEAD@{91}: rebase (start): checkout repo
+4e12579 refs/heads/master@{10}: commit: se agrego contenido - log (rebase-branches)
+4e12579 HEAD@{92}: commit: se agrego contenido - log (rebase-branches)
+2262b19 HEAD@{93}: checkout: moving from branches to master
+136c72e HEAD@{94}: rebase (continue) (finish): returning to refs/heads/branches
+136c72e HEAD@{95}: rebase (continue): se agrego contenido - branch
+26184d7 HEAD@{96}: rebase (start): checkout repo
+39c0bbe HEAD@{97}: checkout: moving from master to branches
+2262b19 refs/remotes/IT/master@{6}: update by push
+2262b19 HEAD@{98}: checkout: moving from repo to master
+26184d7 HEAD@{99}: rebase (finish): returning to refs/heads/repo
+26184d7 HEAD@{100}: rebase (pick): se edito contenido - local (commit options)
+2262b19 HEAD@{101}: rebase (start): checkout master
+b60490a HEAD@{102}: checkout: moving from master to repo
+2262b19 refs/heads/master@{11}: commit: se agrego contenido - log (rebase)
+2262b19 HEAD@{103}: commit: se agrego contenido - log (rebase)
+606c6b8 refs/heads/master@{12}: rebase (continue) (finish): refs/heads/master onto 552100a2ff302fc48e8e9d3bddacffca0222b045
+606c6b8 HEAD@{104}: rebase (continue) (finish): returning to refs/heads/master
+606c6b8 HEAD@{105}: rebase (continue): se edito contenido - branch (delete)
+90dcd70 HEAD@{106}: rebase (continue): se agrego contenido - branch
+136ef71 HEAD@{107}: rebase (start): checkout refs/remotes/IT/master
+03407b5 refs/heads/master@{13}: commit (merge): Integracion de Cambios Branches => master
+03407b5 HEAD@{108}: commit (merge): Integracion de Cambios Branches => master
+136ef71 HEAD@{109}: checkout: moving from branches to master
+39c0bbe HEAD@{110}: reset: moving to HEAD
+39c0bbe HEAD@{111}: checkout: moving from repo to branches
+b60490a HEAD@{112}: checkout: moving from master to repo
+136ef71 refs/heads/master@{14}: commit: se agrego contenido - branches (comandos)
+136ef71 HEAD@{113}: commit: se agrego contenido - branches (comandos)
+552100a HEAD@{114}: checkout: moving from branches to master
+39c0bbe HEAD@{115}: checkout: moving from repo to branches
+b60490a HEAD@{116}: commit: se edito contenido - local (commit options)
+6f5b9ce HEAD@{117}: checkout: moving from branches to repo
+39c0bbe HEAD@{118}: commit: se edito contenido - branch (delete)
+c39b817 HEAD@{119}: checkout: moving from repo to branches
+6f5b9ce HEAD@{120}: checkout: moving from master to repo
+552100a refs/remotes/IT/master@{7}: update by push
+552100a refs/heads/master@{15}: merge repo: Merge made by the 'recursive' strategy.
+552100a HEAD@{121}: merge repo: Merge made by the 'recursive' strategy.
+0f6b4cf HEAD@{122}: checkout: moving from branches to master
+c39b817 HEAD@{123}: commit: se agrego contenido - branch
+e2051bd HEAD@{124}: checkout: moving from e2051bde6f951c06e0852e25c5889d69e49212b3 to branches
+e2051bd HEAD@{125}: checkout: moving from repo to e2051bd
+6f5b9ce HEAD@{126}: commit: se agrego contenido - local
+ab630ee HEAD@{127}: checkout: moving from master to repo
+0f6b4cf HEAD@{128}: checkout: moving from repo to master
+ab630ee HEAD@{129}: commit: se agrego contenido - remote
+2b9c72a HEAD@{130}: checkout: moving from master to repo
+0f6b4cf HEAD@{131}: checkout: moving from 2b9c72a324b8db495ec81c22d8723c34db64017d to master
+2b9c72a HEAD@{132}: checkout: moving from master to HEAD~4
+0f6b4cf refs/remotes/IT/master@{8}: update by push
+0f6b4cf refs/heads/master@{16}: commit (amend): se agrego contenido - repository
+0f6b4cf HEAD@{133}: commit (amend): se agrego contenido - repository
+a46ca6e refs/heads/master@{17}: commit: se agrego contenido - repository
+a46ca6e HEAD@{134}: commit: se agrego contenido - repository
+e665f2a HEAD@{135}: checkout: moving from e2051bde6f951c06e0852e25c5889d69e49212b3 to master
+e2051bd HEAD@{136}: checkout: moving from master to e2051bd
+e665f2a refs/heads/master@{18}: commit: se agrego contenido - staging area (index)
+e665f2a HEAD@{137}: commit: se agrego contenido - staging area (index)
+004838b refs/heads/master@{19}: commit: se agrego contenido - working directory
+004838b HEAD@{138}: commit: se agrego contenido - working directory
+e2051bd refs/remotes/IT/master@{9}: update by push
+e2051bd HEAD@{139}: checkout: moving from 2b9c72a324b8db495ec81c22d8723c34db64017d to master
+2b9c72a HEAD@{140}: checkout: moving from master to 2b9c72a
+e2051bd refs/heads/master@{20}: commit (amend): Configuraciones | global & system
+e2051bd HEAD@{141}: commit (amend): Configuraciones | global & system
+489ef3d refs/heads/master@{21}: commit: Configuraciones - global y system
+489ef3d HEAD@{142}: commit: Configuraciones - global y system
+2b9c72a refs/heads/master@{22}: commit (initial): Primer Commit - se agrego local-config
+2b9c72a HEAD@{143}: commit (initial): Primer Commit - se agrego local-config

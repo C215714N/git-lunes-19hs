@@ -23,8 +23,8 @@ GIT
 	git checkout <branch> => mueve la cabecera al ULTIMO COMMIT 
 				 de dicha Rama (Apuntador Dinamico)
 	*REF
-		commit C017117	=> mueve el HEAD al commit indicado
-		ancestor HEAD^	=> retrocede el HEAD un numero igual a 
-					la cantidad de ancestros indicados
-		previous HEAD~2 => retrocede el HEAD un numero identico
-					a la cantidad de commits marcados
+	commit C017117	=> mueve el HEAD al commit indicado
+	ancestor HEAD^	=> retrocede el HEAD un numero igual a 
+			   la cantidad de ancestros indicados
+	previous HEAD~2 => retrocede el HEAD un numero identico
+			   a la cantidad de commits marcados

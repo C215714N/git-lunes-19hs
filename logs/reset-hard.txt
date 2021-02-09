@@ -1,0 +1,47 @@
+* 71bf5e7 (HEAD -> development) se agrego contenido - reset
+* dd1e8ff se agrego contenido - revert
+* 2870113 se agrego contenido - bisect
+* 533a11a se edito contenido - stash (comandos)
+* f289bf2 se agrego contenido - stash
+* d5c3b5d se edito contenido - tag (remote)
+* dd84ce2 se edito contenido - tags (comandos)
+* c6116b8 se agrego contenido - tags
+* d06fe7b (IT/development) se agrego contenido - logs (merge & rebase)
+* 5dea45b (tag: v.1.1.0) se agrego contenido - log (pull remote)
+* 3d7fcc1 se agrego contenido - branch
+* f78b824 se agrego contenido - repository
+| *   777fdbf (IT/master, master) Integracion de cambios origin => master
+| |\  
+| | * 5501d73 se agrego contenido - log
+| * |   1d9c211 Integracion de cambios - remote => master
+| |\ \  
+| | * \   377f9bb se actualizo contenido - pull remote => master
+| | |\ \  
+| | | * | 2262b19 se agrego contenido - log (rebase)
+| | | * | 606c6b8 se edito contenido - branch (delete)
+| | | * | 90dcd70 se agrego contenido - branch
+| | | * | 136ef71 se agrego contenido - branches (comandos)
+| | | * |   552100a Branch Merge (repo => master)
+| | | |\ \  
+| | | | * | 6f5b9ce se agrego contenido - local
+| | | | * | ab630ee se agrego contenido - remote
+| |_|_|/ /  
+|/| | | |   
+| | | * | 0f6b4cf se agrego contenido - repository
+| | | * | e665f2a se agrego contenido - staging area (index)
+| | | * | 004838b se agrego contenido - working directory
+| | | * | e2051bd Configuraciones | global & system
+| |_|/ /  
+|/| | |   
+| | * | 7913cc5 se edito contenido - repository (local)
+| * | | 0ad31a2 se edito contenido - repository (local)
+| |/ /  
+| * / 262681a se agrego contenido - logs (merge & rebase)
+| |/  
+| * 865ebdd se agrego contenido - branch
+| * 36c740e se agrego contenido - repository
+| * c3bddb6 se agrego contenido - staging area (index)
+| * 1e9bf82 se agrego contenido - working directory
+| * e15b933 se agrego contenido - config global & system
+|/  
+* 2b9c72a (tag: v.1.0.0) Primer Commit - se agrego local-config

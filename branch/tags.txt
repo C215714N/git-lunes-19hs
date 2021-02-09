@@ -1,0 +1,20 @@
+TAGS	(Etiquetas)
+	Apuntadores estaticos que se utilizan para
+	referenciar algun commit en particular, 
+	normalmente se implementan para el versionado
+	del proyecto y poder navegar entre las mismas
+	con mayor facilidad.
+
+	NOTA: Los tags se almacenan ordinalmente, por
+	lo tanto conviene que respetemos ciertas normas
+	a la hora de aplicarlos, como por ejemplo
+	"v.1.0" y cuando hagamos un cambios significativo
+	seguir con dicha nomenclatura como "v.1.1"
+
+GIT 
+	git tag <name> => asigna al commit actual una etiqueta
+	git tag -l => lista las etiquetas asignadas
+	git tag -d <tag> => alimina la etiqueta especificada
+
+REMOTE
+	git push <url> --tags => envia al remoto las etiquetas almacenadas

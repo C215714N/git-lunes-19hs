@@ -1,0 +1,21 @@
+STASH (ALMACENAMIENTO TEMPORAL)
+	La Zona stash corresponde a una pila
+	de referencias que se utiliza para 
+	navegar en el historial cuando tenemos
+	modificaciones pendientes, pero no 
+	corresponden a un proximo commit.
+	
+	NOTA: la referencia almacenada es un 
+	apuntador STASH al commit actual de la
+	cabecera HEAD y al INDEX del mismo.
+	Es fundamental que los cambios esten
+	almacenados en el STAGING AREA para
+	poder acceder a los comandos STASH.
+
+GIT 
+	git stash => crea la referencia en la zona stash (COMMIT | INDEX)
+	git stash apply <stash> => aplica los cambios de la zona stash (sin eliminarlos)
+	git stash drop <stash> => elimina la referencia de la zona stash
+	git stash pop <stash> => aplica los cambios y elimina la referencia (APPLY & DROP)
+
+	git stash list => muestra las referencias almacenadas en la zona stash
